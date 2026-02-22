@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.streamlit/
+.gemini/
+.agent/
+.system_generated/
+*.webp
+*.bat
+start.py
