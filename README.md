@@ -1,2 +1,2 @@
 # LootRadar
-Good searching for deals
+Great at finding deals
